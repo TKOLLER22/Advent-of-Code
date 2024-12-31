@@ -1,10 +1,10 @@
 # Advent-of-Code
 
-#Progress
+# Progress
 
-#2024
+# 2024
 
-Day1 "/n"
+Day1 
 Day2
 Day3
 Day4
