@@ -1,3 +1,5 @@
+const { DefaultDeserializer } = require('v8');
+
 //DAY 1 AOC 2024
 fs = require('fs');
 
