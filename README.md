@@ -1,8 +1,8 @@
 # Advent-of-Code
 
-# Progress
+## Progress
 
-# 2024
+### 2024
 
 Day1  
 Day2  
